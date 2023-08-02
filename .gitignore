@@ -9,7 +9,7 @@
 *.bcf
 *.blg
 *.brf
-*.bst
+# *.bst
 *.dvi
 *.fdb_latexmk
 *.fls

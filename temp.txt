@@ -10,13 +10,3 @@ Effiecient reading requires that readers establish word-specific orthographic re
  the rapid retrieval of a  word’s phonological and semantic information from memory based on a brief exposure to its orthographic representation. \citep{rastlePlaceMorphologyLearning2019, castlesHowDoesOrthographic2006}. Rapid and reliable retrieval is  facilitated by high-quality semantic, phonological and orthographic \citep{perfettiLexicalQualityRevisited2017} representations, where '
 
 
-\subsection{Complex word recognition}
-
-Understanding how skilled readers process morphologically complex words (e.g., trusted, distrust, untrustworthy) provides insight into the organization and retrieval of lexical knowledge. 
-
- A central theoretical question underpinning research on morphological priming effects concerns whether they reflect abstract morphological representations or dynamic interactions between orthographic and semantic information during the early stages of lexical retrieval.  Studies of masked priming between morphologically related words  have consistently shown that morphologically complex words facilitate lexical decision responses to their stem morphemes across a range of languages, implying that ‘‘the morpheme-sized representations (shared by primes and targets) are automatically activated at a very early stage of visual word recognition’’
- 
-
- However, a number of studies have found that the magnitude of the priming effect for opaque pairs is just as large as that for transparent pairs.  This evidence has been taken as support for `morpho-orthographic decomposition’ accounts of morphological processing \citep{rastleBrothMyBrother2004, rastleMorphologicalDecompositionBased2008} which assume an early orthographically-driven segmentation process that parses complex words into affixes and stems.
- 
-Lexical models that rely on statistical learning \citep{plautAreNonsemanticMorphological2000, baayenAmorphousModelMorphological2011} capture sensitivity to morphological structure through learned associations between orthography and meaning.  In such models, morphological relationships emerge as a consequence of the correlations between form and meaning and hence produce graded effects of morphological structure in which transparent pairs, which share both orthographic and semantic features yield stronger priming than opaque pairs that share only orthography. 

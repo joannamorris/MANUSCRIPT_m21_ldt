@@ -1,0 +1,26 @@
+Differential patterns of brain activity are correlated with sensitivity to morphological structure 
+Joanna Morris & Ani Alaberkyan | Department of Psychology |  Providence College
+
+INTRODUCTION
+Andrews & Lo (2013) found that skilled readers differ in terms of the extent to which they rely on orthographic versus semantic processing in word recognition. 
+These individual differences modulate sensitivity to the morphological structure of words and influence the early stages of lexical retrieval.
+
+To what extent are individual differences in sensitivity to the internal structure of words reflected in differences in the patterns of brain responses to complex words?
+
+To examine this question we measured the amplitude of the N250 component as participants completed a lexical decision task with non-word targets that differed in morphological family size—the type count of morphologically related words—and morphological complexity.
+
+LD response times to words with larger family sizes are faster than for words with smaller family sizes.  This suggests that family size facilitates recognition of complex words and hinders rejection of complex non-words.
+
+METHODS
+Following Andrews & Lo (2013, we used vocabulary as a measure of semantic coherence and spelling as an index of orthographic precision. 
+We entered vocabulary and spelling scores into a PCA to obtain orthogonalized components. 
+PC1 reflected skill in both spelling and vocabulary while PC2, reflected the unique variation differentiating them.
+We used PC2 to label individuals as having an “orthographic” or a “semantic” reading profile. 
+74 participants—58 female, 16 male 14 participants excluded for missing data
+The N250 is a negative component that arises ~250 ms after stimulus onset and has been hypothesised to reflect morpho-orthographic processing (Holcomb & Grainger, 2009)
+
+
+RESULTS
+The amplitude of the N250 component to non-words was modulated by both participant reading style and morphological family size.  
+
+The difference between N250 responses to words from large vs small morphological families was greater for complex words and for “orthographic” readers.
